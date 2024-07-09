@@ -27,6 +27,7 @@ GitHub | `marketplace_repository_ids` | This cookie is used for the marketplace 
 GitHub | `marketplace_suggested_target_id` | This cookie is used for the marketplace installation flow. | One hour
 GitHub | `_octo` | This cookie is used for session management including caching of dynamic content, conditional feature access, support request metadata, and first party analytics. | One year
 GitHub | `org_transform_notice` | This cookie is used to provide notice during organization transforms. | One hour
+GitHub | `preferred_color_mode` | Records the preferred color mode as defined by the OS. This provides consistent theme rendering across server and client. | Session
 GitHub | `private_mode_user_session` | This cookie is used for Enterprise authentication requests. | Two weeks
 GitHub | `saml_csrf_token` | This cookie is set by SAML auth path method to associate a token with the client. | Until user closes browser or completes authentication request
 GitHub | `saml_csrf_token_legacy` | This cookie is set by SAML auth path method to associate a token with the client. | Until user closes browser or completes authentication request
